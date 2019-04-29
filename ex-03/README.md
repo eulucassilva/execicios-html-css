@@ -25,7 +25,8 @@ Pepperoni
 Pepperoni e cebola
 
 Parmegiana
-Carpaccio de berinjela, molho de tomate especial e queijo parmesão
+Carpacc
+io de berinjela, molho de tomate especial e queijo parmesão
 
 Frango com Catupiry
 Frango, catupiry e milho

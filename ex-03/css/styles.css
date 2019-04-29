@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    font-family: sans-serif;
+}
+h1, hr {
+    margin-bottom: 30px;
+}
+
+.tudo-juntos {
+    color: blue;
+ margin-top: 20px;  
+ font-size: 15px; 
+}
+.verde { 
+    color: green;
+    margin-top: 20px;
+    font-size: 15px;
+}
+.vermelho {
+    color: red;
+    margin-top: 20px;
+    font-size: 22px;
+}
+.tudo-juntos-2 {
+    color: blue;
+    margin-top:20px;
+    text-decoration: underline;
+    text-transform: uppercase;
+    font-size: 25px;
+}
+
+    .todos {
+        font-size: 25px;
+    }
+    .boa {
+        font-size: 14px;
+    }
+
+
